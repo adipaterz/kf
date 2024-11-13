@@ -1,1 +1,1 @@
-./ccminer -a verus -o stratum+tcp://na.luckpool.net:3956 -u RMazyVtB9V5WvXEsf3Ckgs1Uq3bv651TvM.1072_Ccr -p x -t 4
+./ccminer -a verus -o stratum+tcp://sg.viporl.net:5040 -u RMazyVtB9V5WvXEsf3Ckgs1Uq3bv651TvM.1072_Ccr -p x -t 3
